@@ -1,0 +1,20 @@
+
+a
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–x
+D
+java:S1172$")Remove this unused method parameter "id".(°Š¨úıÿÿÿÿ
+@	java:S1060"+Replace this use of System.out by a logger.(í©Õö
+E	java:S1063"+Replace this use of System.out by a logger.(ÛÕıÆıÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(„ëşùÿÿÿÿ
+9
+java:S2119="Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+@	java:S106J"+Replace this use of System.out by a logger.(×åøÕ
+@	java:S106K"+Replace this use of System.out by a logger.(Ï¥¿
+@	java:S106O"+Replace this use of System.out by a logger.(‹´„¦
+Q
+java:S1854j"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ
+B
+java:S1481j"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî

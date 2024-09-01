@@ -1,0 +1,14 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Ú¨âøÿÿÿÿ8äËôË…2
+G	java:S106"+Replace this use of System.out by a logger.(Ğ‰Âª8æËôË…2
+G	java:S106"+Replace this use of System.out by a logger.(ËªÖ8éËôË…2
+G	java:S106"+Replace this use of System.out by a logger.(Ğ‰Âª8ìËôË…2
+L	java:S106-"+Replace this use of System.out by a logger.(×Ÿ€Ÿûÿÿÿÿ8óËôË…2
+}
+java:S3923["[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÃÉƒƒûÿÿÿÿ8ÌôË…2
+m
+java:S2175["KA "Map<Character, NodeLists>" cannot contain a "int" in a "Character" type.(ÃÉƒƒûÿÿÿÿ8ƒÌôË…2
+J	java:S108[")Either remove or fill this block of code.(ÃÉƒƒûÿÿÿÿ8…ÌôË…2
+E	java:S108^")Either remove or fill this block of code.(á¢–¬8…ÌôË…2
+m
+java:S2175c"KA "Map<Character, NodeLists>" cannot contain a "int" in a "Character" type.(ÃÉƒƒûÿÿÿÿ8…ÌôË…2

@@ -1,0 +1,10 @@
+
+^
+java:S4973F"<Strings and Boxed types should be compared using "equals()".(«ç¤Âÿÿÿÿÿ8¡ÜÙ€–2
+X	java:S125#"<This block of commented-out lines of code should be removed.(öıµ“8¥ÜÙ€–2
+L	java:S106F"+Replace this use of System.out by a logger.(«ç¤Âÿÿÿÿÿ8¥ÜÙ€–2
+L	java:S106G"+Replace this use of System.out by a logger.(ŸÖ³úùÿÿÿÿ8¥ÜÙ€–2
+G	java:S106O"+Replace this use of System.out by a logger.(®Ÿí²8¶šé€–2
+G	java:S106P"+Replace this use of System.out by a logger.(Ô’8ª³î€–2
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18 çä€–2

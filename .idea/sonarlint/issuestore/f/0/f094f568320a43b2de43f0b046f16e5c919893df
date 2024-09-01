@@ -1,0 +1,11 @@
+
+_
+java:S1854
+"=Remove this useless assignment to local variable "observer2".(ŠÀõøÿÿÿÿ8ÒÕ°©˜2
+Z
+java:S1854	"=Remove this useless assignment to local variable "observer1".(–ÆÇì8ÒÕ°©˜2
+K
+java:S1481	".Remove this unused "observer1" local variable.(–ÆÇì8ÓÕ°©˜2
+P
+java:S1481
+".Remove this unused "observer2" local variable.(ŠÀõøÿÿÿÿ8ÓÕ°©˜2

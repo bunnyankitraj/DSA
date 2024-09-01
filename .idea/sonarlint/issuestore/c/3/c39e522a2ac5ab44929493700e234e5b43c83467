@@ -1,0 +1,11 @@
+
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(…÷·µÿÿÿÿÿ8¼ÕÔ§˜2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8´ÄÚ§˜2
+L	java:S106"+Replace this use of System.out by a logger.(È’­ıÿÿÿÿ8¾ÕÔ§˜2
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(½‚¢£8µÄÚ§˜2
+L	java:S106"+Replace this use of System.out by a logger.(‰¬‹áûÿÿÿÿ8µÄÚ§˜2
+L	java:S106"+Replace this use of System.out by a logger.(½¼“şÿÿÿÿ8µÄÚ§˜2
+L	java:S106$"+Replace this use of System.out by a logger.(„¥–æÿÿÿÿÿ8¶ÄÚ§˜2

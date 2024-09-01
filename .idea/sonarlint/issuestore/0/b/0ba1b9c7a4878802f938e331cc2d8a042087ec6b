@@ -1,0 +1,9 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ûÄéµ8İ÷öæ’2
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦çí½
+X	java:S125"<This block of commented-out lines of code should be removed.(øêôß8Ş÷öæ’2
+X	java:S125'"<This block of commented-out lines of code should be removed.(ßÖ„¾8îÚíè”2
+L	java:S106B"+Replace this use of System.out by a logger.(ä©äüÿÿÿÿ8â÷öæ’2
+X	java:S125G"<This block of commented-out lines of code should be removed.(ŞÆ†ú8ã÷öæ’2
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

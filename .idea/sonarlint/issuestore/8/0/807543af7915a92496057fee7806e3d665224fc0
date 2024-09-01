@@ -1,0 +1,11 @@
+
+a
+java:S1854<"?Remove this useless assignment to local variable "maxHeights2".(É—ãûÿÿÿÿÿ8ä›Ø—2
+`
+java:S1854;">Remove this useless assignment to local variable "maxHeights".(÷Ïßæşÿÿÿÿ8°Ø—2
+Q
+java:S1481;"/Remove this unused "maxHeights" local variable.(÷Ïßæşÿÿÿÿ8ºˆØ—2
+R
+java:S1481<"0Remove this unused "maxHeights2" local variable.(É—ãûÿÿÿÿÿ8ä›Ø—2
+L	java:S106>"+Replace this use of System.out by a logger.(¢¢íıÿÿÿÿ8óšØ—2
+G	java:S106?"+Replace this use of System.out by a logger.(ÉêŒ8Ñ±’Ø—2

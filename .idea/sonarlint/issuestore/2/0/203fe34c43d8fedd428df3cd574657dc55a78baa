@@ -1,0 +1,29 @@
+
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù•…°ûÿÿÿÿ
+:
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ
+f	java:S1167"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼ÿ»øÿÿÿÿ
+S
+java:S1854G"8Remove this useless assignment to local variable "half".(Éñï¦ùÿÿÿÿ
+D
+java:S1481G")Remove this unused "half" local variable.(Éñï¦ùÿÿÿÿ
+@	java:S106W"+Replace this use of System.out by a logger.(É¬„õ
+@	java:S106s"+Replace this use of System.out by a logger.(ÒÚ‰†
+@	java:S106u"+Replace this use of System.out by a logger.(¯©Ñ»
+@	java:S106{"+Replace this use of System.out by a logger.(‚ĞÖò
+9
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+F	java:S106ƒ"+Replace this use of System.out by a logger.(µÚ¿—üÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(™ò’ıÿÿÿÿ
+@	java:S106—"+Replace this use of System.out by a logger.(ıÖ{
+F	java:S106œ"+Replace this use of System.out by a logger.(Àö­Ûşÿÿÿÿ
+F	java:S106Ÿ"+Replace this use of System.out by a logger.(—Å–‰ÿÿÿÿÿ
+F	java:S106¡"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(²öÑéøÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(²öÑéøÿÿÿÿ
+=
+java:S1068"(Remove this unused "size" private field.(‰öÆ)
+@
+java:S1068"%Remove this unused "x" private field.(±šß¯ùÿÿÿÿ
+@
+java:S1068"%Remove this unused "y" private field.(±šß¯ùÿÿÿÿ

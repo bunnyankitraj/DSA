@@ -1,0 +1,11 @@
+
+r
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ8›Ñ‰£–2
+G	java:S106&"+Replace this use of System.out by a logger.(ïœ Ì8Ñ‰£–2
+G	java:S106("+Replace this use of System.out by a logger.(Ñõ¬–8Ñ‰£–2
+G
+java:S11970"*Move the array designators [] to the type.(ÄÅƒ¯8Ñ‰£–2
+]	java:S125<"<This block of commented-out lines of code should be removed.(§Üãüÿÿÿÿ8î“æ£–2
+L	java:S106Z"+Replace this use of System.out by a logger.(²ÃÆÏøÿÿÿÿ8Ñ‰£–2
+]	java:S125]"<This block of commented-out lines of code should be removed.(ÂòÀÛıÿÿÿÿ8Ñ‰£–2
